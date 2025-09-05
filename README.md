@@ -2,3 +2,6 @@
 This is my first git repository.
 <br>
 Author-Ruchi Singh
+
+#Student
+RUchi Singh
